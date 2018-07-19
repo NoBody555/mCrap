@@ -1,1 +1,1 @@
-This branch is the copy of the master
+This branch is another copy of the master
